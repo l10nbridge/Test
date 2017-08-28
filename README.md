@@ -6,4 +6,8 @@
 ## The Third edited section
 **********
 
+**********
+## The Fourth edited section
+**********
+
 # Test
